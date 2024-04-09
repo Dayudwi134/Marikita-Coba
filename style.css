@@ -88,3 +88,31 @@ h2{
     width: 100%;
     line-height: 50px;
 }
+
+a.tbl-unggu{
+    background:  rgb(141, 124, 37);
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+p{
+    margin-top: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+a.tbl-biru{
+    background: rgb(30, 30, 126);
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+
