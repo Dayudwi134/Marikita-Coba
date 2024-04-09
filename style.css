@@ -132,7 +132,10 @@ a.tbl-pink{
 }
 
 .destination-list {
-    text-align: center;
+    width: 100px;
+    position: relative;
+    display: inline-grid;
+    flex-wrap: wrap-reverse;
 }
 
 .kartu-wisata {
@@ -141,9 +144,9 @@ a.tbl-pink{
 }
 
 .kartu-wisata.img {
+    width: 100px;
+    border-radius: 50%;
     display: block; 
-  margin: 0 auto; 
-  margin-top: 10px;
 }
 
 .kartu-wisata p {
