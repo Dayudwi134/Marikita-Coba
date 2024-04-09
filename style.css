@@ -36,7 +36,7 @@ nav{
     position: sticky;
     position: -webkit-sticky;
     top: 0;
-    background: rgb(170, 227, 250);
+    background: rgb(51, 170, 206);
 }
 
 nav ul{
@@ -61,3 +61,4 @@ nav ul li a{
 nav ul li a:hover{
     text-decoration: underline;
 }
+
