@@ -116,5 +116,15 @@ a.tbl-biru{
     font-weight: bold;
 }
 
+a.tbl-pink{
+    background:  rgb(141, 124, 37);
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+}
+
 
 
