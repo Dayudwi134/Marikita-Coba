@@ -36,7 +36,7 @@ nav{
     position: sticky;
     position: -webkit-sticky;
     top: 0;
-    background: rgb(51, 170, 206);
+    background: rgb(141, 124, 37);
 }
 
 nav ul{
@@ -62,3 +62,29 @@ nav ul li a:hover{
     text-decoration: underline;
 }
 
+section{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+.kolom{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.kolom .deskripsi{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color: rgb(168, 168, 37);
+}
+
+h2{
+    font-family: 'comic sans ms';
+    font-weight: 800px;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: rgb(168, 168, 37);  
+    width: 100%;
+    line-height: 50px;
+}
