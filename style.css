@@ -20,8 +20,8 @@ body{
     font-size: 50px;
     font-weight: 800px;
     float: left;
-    font-family: courier;
-    color: rgb(244, 249, 249);
+    font-family: comic sans ms;
+    color: rgb(7, 7, 74);
 }
 
 .menu{
@@ -36,7 +36,9 @@ nav{
     position: sticky;
     position: -webkit-sticky;
     top: 0;
-    background: rgb(141, 124, 37);
+    background: #FFFFFF;
+    z-index: 1;
+    border: 1px solid rgb(7, 7, 74);
 }
 
 nav ul{
